@@ -1,0 +1,33 @@
+.header {
+    height:  200px;
+    background-color: black ;
+     ;
+}
+.header_navbar{
+        display: flex;
+        justify-content: space-between;
+}
+ .header_navbar-list {
+ list-style: none;
+   height:  140px;
+    background-color: black ;
+     ;
+ 
+}
+.header_navbar-item {
+    display: inline-block
+    ;
+    margin: 0 8px;
+}
+.header_navbar-listt{
+    
+    background-color: red
+    ;
+    list-style: none;
+    margin: 0px;
+}
+grid_full-width{
+    width: 120px;
+    max-width: 100%;
+    margin: 0 auto;
+}
